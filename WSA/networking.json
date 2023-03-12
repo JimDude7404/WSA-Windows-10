@@ -1,0 +1,11 @@
+
+{
+  "$schema": "networking_schema.json",
+
+  "VpnInterfaces": [
+    {
+        "InterfaceType": 6,
+        "InterfaceDescription": "Cisco AnyConnect"
+    }
+  ]
+}
