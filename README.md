@@ -23,11 +23,14 @@ If it is it will say so inside of task manager.
 
 ![image](https://user-images.githubusercontent.com/67085206/224495031-0de71260-8ba5-4e9f-a22f-98e470a8d90f.png)
 
-6. Install "https://www.microsoft.com/store/productId/9P9TQF7MRM4R" from the Microsoft Store. 
+6. Install "https://www.microsoft.com/store/productId/9P9TQF7MRM4R" from the Microsoft Store.
 
-7. Now run setup.bat that is inside of the .zip you downloaded from releases. MAKE SURE TO EXTRACT IT!!!
+7. Goto your Settings app and enable Developer mode inside of Update & Security
+![image](https://user-images.githubusercontent.com/67085206/224582762-88400729-248b-48c7-9a0c-5f9e1707bd75.png)
+ 
+8. Now run setup.bat that is inside of the .zip you downloaded from releases. MAKE SURE TO EXTRACT IT!!!
 
-8. Now run WSA as normal :)
+0. Now run WSA as normal :)
 
 # Troubleshooting 
 If you are having issues. Namely apps running. Disable everything inside of Startup inside of Task Manager.
