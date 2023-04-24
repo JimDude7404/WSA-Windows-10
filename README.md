@@ -20,7 +20,7 @@ cinit: https://github.com/cinit/WSAPatch -- Gave me a base for the WSAClient.exe
 
 5. Make sure Virtualization is on inside of your BIOS.
 
-If it is it will say so inside of task manager.
+If it is it will say so inside of Task Manager > Performance > CPU.
 
 ![image](https://user-images.githubusercontent.com/67085206/224495031-0de71260-8ba5-4e9f-a22f-98e470a8d90f.png)
 
@@ -29,7 +29,7 @@ If it is it will say so inside of task manager.
 7. Goto your Settings app and enable Developer mode inside of Update & Security
 ![image](https://user-images.githubusercontent.com/67085206/224582762-88400729-248b-48c7-9a0c-5f9e1707bd75.png)
  
-8. Now run setup.bat that is inside of the .zip you downloaded from releases. MAKE SURE TO EXTRACT IT!!!
+8. Now run setup.bat that is inside of the .rar you downloaded from [releases](https://github.com/JimDude7404/WSA-Windows-10/releases). MAKE SURE TO EXTRACT IT!!!
 
 0. Now run WSA as normal :)
 
