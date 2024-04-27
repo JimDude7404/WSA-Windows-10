@@ -1,6 +1,7 @@
 # Windows Subsystem for Android on Windows 10
 This is a backport of Windows Subsystem for Android to Windows 10. 
-
+# Archived
+With Android on Windows shutting down, and the fact I haven't maintained this project in a longgg time, I am arhiving it, if you wish to fork it, and make a better script etc. Go ahead, that is what open source is about. Thank you to everyone who used this project and helped me, along with the articles that gave it some spread. It was my first actual project.
 # What does this do?
 This will install a fully working copy of the Windows Subsystem for Windows 11 onto Windows 10. Yes, this fully works
 ![image](https://user-images.githubusercontent.com/67085206/224578016-82faeb33-d042-4cd7-8033-ef8e6c87f70c.png)
